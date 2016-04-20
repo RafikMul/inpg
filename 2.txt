@@ -12,7 +12,7 @@ puts("Pierwszy napis jest mniejszy.");
 } else if (cmp>0) {
 puts("Pierwszy napis jest wiekszy.");
 } else {
-puts("Napisy sa takie same.");
+puts("Pegza sa takie same.");
 }
 return 0;
 }
