@@ -2,7 +2,11 @@
 
 int main(int argc, char *argv[])
 {
+<<<<<<< HEAD
 	cokowlwiek ¿eby dzia³a³o
    printf("Hello world!\n");
+=======
+   printf("Bye world!!!!!\n");
+>>>>>>> b51e3cac364e0e2465d5a1cbfcaabae3cc7d4d39
    return 0;
 }
