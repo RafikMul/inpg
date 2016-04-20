@@ -1,0 +1,18 @@
+#include <stdio.h>
+#include <string.h>
+int main(void) {
+char str1[100], str2[100];
+int cmp;
+puts("Podaj dwa ciagi znakow: ");
+fgets(str1, sizeof str1, stdin);
+fgets(str2, sizeof str2, stdin);
+cmp = strcmp(str1, str2);
+if (cmp<0) {
+puts("Pierwszy napis jest mniejszy.");
+} else if (cmp>0) {
+puts("Pierwszy napis jest wiekszy.");
+} else {
+puts("Napisy sa takie same.");
+}
+return 0;
+}
