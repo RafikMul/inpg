@@ -12,7 +12,11 @@ puts("Pierwszy napis jest mniejszy.");
 } else if (cmp>0) {
 puts("Pierwszy napis jest wiekszy.");
 } else {
+<<<<<<< HEAD
+puts("Pegza sa takie same.");
+=======
 puts("Pingwiny sa takie same.");
+>>>>>>> b4a587937928bf1a2d256202b9f4502c64a42923
 }
 return 0;
 }
