@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main(int argc, char *argv[])
+
+{
+   
+printf("Bye world!!!!!\n");
+
+printf("costam, powinno dzialac\n");
+return 0;
+
+}
