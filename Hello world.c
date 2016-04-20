@@ -18,3 +18,8 @@ int main()
 	getchar();
 	return 0;
 }
+asoynidsagnjdfasdfaslkhdfaslbflblkdasdkjasgbajgbkjadbgflasbdgfkldasbgd;jas nvbfdkasjbfljvbfbdvjasklbdasvkdasbvhbsvdkljasbdflbhdasvhkuibdgasvkljbdasv;kbdas;kvb sladfbdasbvcdasbvdhjasbvdasvdv
+asvdas;kvjpjabvdkaisvdas
+vas'
+dasvkndhkasbvdvgas
+'scdv;dvasndpasbpvhidasv
