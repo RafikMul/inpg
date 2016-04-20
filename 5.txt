@@ -1,0 +1,15 @@
+#include <stdio.h>
+#include <stdlib.h>
+int main ()
+{
+FILE *fp; /* u¿ywamy metody wysokopoziomowej */
+/* musimy mieæ zatem identyfikator pliku, uwaga na gwiazdkê! */
+char tekst[] = "Hello world";
+if ((fp=fopen("test.txt", "w"))==NULL) {
+printf ("Nie mogê otworzyæ pliku test.txt do zapisu!\n");
+exit(1);
+}
+fprintf (fp, "%s", tekst); /* zapisz nasz ³añcuch w pliku */
+fclose (fp); /* zamknij plik */
+return 0;
+}
