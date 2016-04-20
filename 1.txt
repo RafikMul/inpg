@@ -1,6 +1,16 @@
 #include <stdio.h>
 
 int main(int argc, char *argv[])
+<<<<<<< HEAD
+
+{
+   
+printf("Bye world!!!!!\n");
+
+printf("costam, powinno dzialac\n");
+return 0;
+
+=======
 {
 <<<<<<< HEAD
 	cokowlwiek ¿eby dzia³a³o
@@ -9,4 +19,5 @@ int main(int argc, char *argv[])
    printf("Bye world!!!!!\n");
 >>>>>>> b51e3cac364e0e2465d5a1cbfcaabae3cc7d4d39
    return 0;
+>>>>>>> db9c6a22fc2e052c9a4227f700d138726d0283a8
 }
