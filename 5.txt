@@ -11,5 +11,17 @@ exit(1);dfas gdsrfg hdsbdgdhfgibdsf klgbdfkljsgbdkljsbgdsbhfldgfswgfbhl dgfas bd
 }
 fprintf (fp, "%s", tekst); /* zapisz nasz ³añcuch w pliku */
 fclose (fp); /* zamknij plik */
+<<<<<<< HEAD
 return 0;y rety rtyreyte rtyrt  luib dgfsb kljgb kljb kljsssdfrueihtwueirthirewhdfsfgkdsbhfkgdfks
 }
+=======
+return 0;
+}
+asyunkfdyvausbnidtybnfa
+adgncdhsnfciausds
+dasdacyhntfdas
+asdchnjiasduca
+dachshund
+sacnacgfudas
+sacdnhjkfasca
+>>>>>>> 459adb1bae2db1bdafb3d0d4a38ceaabc3f3d44c
