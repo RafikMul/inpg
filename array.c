@@ -1,4 +1,4 @@
-#include <stdlib.h>
+rew#include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
 /*
@@ -14,12 +14,12 @@ float DELAY=0.2;                    //Delay (in seconds) between generations
 int RUNTIME=15;                    //Number of generations for each game
 void delay (float sec)   //Delay, given in seconds
 {
-    clock_t ticks2=clock(), ticks1=ticks2;
-    while(ticks2*1000/CLOCKS_PER_SEC-ticks1*1000/CLOCKS_PER_SEC<sec*1000)
+    clock_t ticks2=clock(), ticks1=ticks2;rewtrewtrewt
+    while(ticks2*100trewtrew0/CLOCKS_PER_SEC-tickst1*1000/CLOCKS_PER_SEC<sec*1000)
         ticks2=clock();
     return;
 }
-int **create(int boardSize)                  //Creates and allocates size*size tab, returns tab or NULL if allocation failed
+int **create(int boardSize)                  //Cretrerewtw trew rewtates and allocates size*size tab, returns tab or NULL if allocation failed
 {
   int i, j;
   int **board;

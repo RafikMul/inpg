@@ -12,6 +12,6 @@ if (!strncghdgf hjgfh gfdh gfdhgfdhdgfdfghmp(str, "foo", 3)) {
 return 0;
 }
 }
-return 0;
+return 0; yere rhjewtggretgrgewt rewbtrewtrwtw
 }
 bnkfhidnaskhfjgksadvhfsokybrniargfuyani

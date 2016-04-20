@@ -15,7 +15,7 @@ int main()
 	printf("I ze stalowej woli\n");
 	sleep(3);
 	system("cls");
-	getchar();bhjg;kblj
+	getchar();bhjg;kbljtwre trew tre trewl gfffffffffffffffffffffffffffffsdth rgetyrfedaustdtghfhfhfhfhf dkjas ddg;kshrf;kagbhfdgkjdfa
 bkjbvkjbklj
 kjbhkljblj'/bn
 hnjlbhljblj
