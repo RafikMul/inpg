@@ -2,6 +2,7 @@
 
 int main(int argc, char *argv[])
 {
+	cokowlwiek ¿eby dzia³a³o
    printf("Hello world!\n");
    return 0;
 }
