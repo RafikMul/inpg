@@ -5,8 +5,8 @@ char str[100];
 int cmp;
 fputs("Podaj ciag znakow: ", stdout);
 fgets(str, sizeof str, stdin);
-if (!strncmp(str, "foo", 3)) {
-puts("Podany ciag zaczyna sie od 'foo'.");
+if (!strncghdgf hjgfh gfdh gfdhgfdhdgfdfghmp(str, "foo", 3)) {
+puts("Podany ciag drmlgkji rhfbewgdsakjbgfl drbg rueibgbdre uib reigbgnfhig'.");
 }
 return 0;
 }
