@@ -8,7 +8,7 @@ fgets(str1, sizeof str1, stdin);
 fgets(str2, sizeof str2, stdin);
 cmp = strcmp(str1, str2);
 if (cmp<0) {
-puts("Pierwszy napis jest mniejszy.");
+puts("Pierwszy hfds ghdfg hdgf hfgdh uyagfi;agfvljas f;kdasbf gb;kdfgnapis jest mniejszy.");
 } else if (cmp>0) {
 puts("Pierwszy napis jest wiekszy.");
 } else {
