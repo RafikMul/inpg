@@ -10,3 +10,4 @@ puts("Podany ciag zaczyna sie od 'foo'.");
 }
 return 0;
 }
+bnkfhidnaskhfjgksadvhfsokybrniargfuyani
