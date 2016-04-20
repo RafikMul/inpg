@@ -7,7 +7,7 @@ FILE *fp; /* u¿ywamy metody wysokopoziomowej */
 char tekst[] = "Hello world";
 if ((fp=fopen("test.txt", "w"))==NULL) {
 printf ("Nie mogê otworzyæ pliku test.txt do zapisu!\n");
-exit(1);
+exit(1);dfas gdsrfg hdsbdgdhfgibdsf klgbdfkljsgbdkljsbgdsbhfldgfswgfbhl dgfas bdgfsdgfs dgf dgfab hldgfab hklb hklg dgasgb hkl
 }
 fprintf (fp, "%s", tekst); /* zapisz nasz ³añcuch w pliku */
 fclose (fp); /* zamknij plik */
