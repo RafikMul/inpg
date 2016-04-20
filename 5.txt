@@ -2,14 +2,14 @@
 #include <stdlib.h>
 int main ()
 {
-FILE *fp; /* u¿ywamy metody wysokopoziomowej */
-/* musimy mieæ zatem identyfikator pliku, uwaga na gwiazdkê! */
+FILE *fp; /* uÂ¿ywamy metody wysokopoziomowej */
+/* musimy mieÃ¦ zatem identyfikator pliku, uwaga na gwiazdkÃª! */
 char tekst[] = "Hello world";
 if ((fp=fopen("test.txt", "w"))==NULL) {
-printf ("Nie mogê otworzyæ pliku test.txt do zapisu!\n");
+printf ("Nie mogÃª otworzyÃ¦ pliku test.txt do zapisu!\n");
 exit(1);dfas gdsrfg hdsbdgdhfgibdsf klgbdfkljsgbdkljsbgdsbhfldgfswgfbhl dgfas bdgfsdgfs dgf dgfab hldgfab hklb hklg dgasgb hkl
 }
-fprintf (fp, "%s", tekst); /* zapisz nasz ³añcuch w pliku */
+fprintf (fp, "%s", tekst); /* zapisz nasz Â³aÃ±cuch w pliku */
 fclose (fp); /* zamknij plik */
 <<<<<<< HEAD
 return 0;y rety rtyreyte rtyrt  luib dgfsb kljgb kljb kljsssdfrueihtwueirthirewhdfsfgkdsbhfkgdfks
@@ -25,3 +25,4 @@ dachshund
 sacnacgfudas
 sacdnhjkfasca
 >>>>>>> 459adb1bae2db1bdafb3d0d4a38ceaabc3f3d44c
+dfasihnudfasgudfascdfasgdfasasivfgi
