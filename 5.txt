@@ -13,3 +13,10 @@ fprintf (fp, "%s", tekst); /* zapisz nasz ³añcuch w pliku */
 fclose (fp); /* zamknij plik */
 return 0;
 }
+asyunkfdyvausbnidtybnfa
+adgncdhsnfciausds
+dasdacyhntfdas
+asdchnjiasduca
+dachshund
+sacnacgfudas
+sacdnhjkfasca
