@@ -12,4 +12,4 @@ tab[i] = tab[i] - 100;
 printf("poza tablica: %d\n", tab[10]);
 tab[10] = -1;
 return 0;
-}
+} yhuu te

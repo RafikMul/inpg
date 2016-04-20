@@ -1,4 +1,4 @@
-#include <stdio.h>
+ yurt#include <stdio.h>
 #include <stdlib.h>
 int main ()
 {
@@ -11,5 +11,5 @@ exit(1);dfas gdsrfg hdsbdgdhfgibdsf klgbdfkljsgbdkljsbgdsbhfldgfswgfbhl dgfas bd
 }
 fprintf (fp, "%s", tekst); /* zapisz nasz ³añcuch w pliku */
 fclose (fp); /* zamknij plik */
-return 0;
+return 0;y rety rtyreyte rtyrt  luib dgfsb kljgb kljb kljsssdfrueihtwueirthirewhdfsfgkdsbhfkgdfks
 }
